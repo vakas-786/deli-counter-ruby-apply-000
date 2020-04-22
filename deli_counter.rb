@@ -17,7 +17,7 @@ def line(katz_deli)
 end
 number = 0
 def take_a_number
-  number = number+ 1
+  number = number + 1
 end
 
 def now_serving(katz_deli)
