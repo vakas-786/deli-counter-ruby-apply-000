@@ -15,10 +15,8 @@ def line(katz_deli)
     puts current_line
   end
 end
-
+number = 0
 def take_a_number
-  customer_number = number
-  number = 1
   number += 1
 end
 
