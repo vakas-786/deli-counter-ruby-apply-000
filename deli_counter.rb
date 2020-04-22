@@ -17,6 +17,7 @@ def line(katz_deli)
 end
 
 def take_a_number
+  customer_number = number
   number = 1
   number += 1
 end
