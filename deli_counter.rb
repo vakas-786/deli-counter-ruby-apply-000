@@ -7,7 +7,7 @@ def line(katz_deli)
     number = 1
     current_line = "The line is currently:"
     #added this variable to make it easier to insert the names and number later
-    #fix the spacing to make the format/syntax work(spacing is fixed now 4/19)
+    #(spacing is fixed now 4/19)
     katz_deli.each do |customer|
       current_line << " #{number}. #{customer}"
       number +=1
